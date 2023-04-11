@@ -600,7 +600,7 @@ body.dark-theme {
   display: inline-flex;
   align-items: center;
   column-gap:.5rem;
-  color: var(--title-color);
+  color:var(--title-color);
   font-size: var(--small-font-size);
 
 }
@@ -760,7 +760,7 @@ content:'';
 
 .contact__data-title{
   font-size: var(--small-font-size);
-  color: var(--text-color-light);
+  color: var(--title-color);
   bottom: 2rem;
 }
 .contact__data-title i{
